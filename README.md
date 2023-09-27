@@ -2,7 +2,9 @@
 
 ReliefChain is a decentralized donation platform designed to connect donors directly to trusted relief organizations and NGOs working towards helping people affected by disasters. It offers transparency, security, and efficiency in the distribution of funds to those in need, empowering individuals to make a meaningful impact.
 
-## Website link:https: //shobhittgupta.github.io/ReliefChain/
+## Website link:
+https://shobhittgupta.github.io/ReliefChain/
+
 ## Functionality
 
 ReliefChain provides the following key features:
