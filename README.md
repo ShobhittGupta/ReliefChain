@@ -42,7 +42,7 @@ ReliefChain is built using the following technologies:
 
 - **Solidity:** The programming language for writing smart contracts on the Ethereum blockchain.
 
-- **Web3.js:** A JavaScript library for interacting with Ethereum blockchain smart contracts.
+- **Ethers.js:** A JavaScript library for interacting with Ethereum blockchain smart contracts.
 
 ## Installation and Setup
 
