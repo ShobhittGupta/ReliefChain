@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReliefChain/static/css/main.9a8696c9.css",
+    "main.js": "/ReliefChain/static/js/main.f3549a8c.js",
+    "static/media/im3.jpg": "/ReliefChain/static/media/im3.43951956df126f558cf4.jpg",
+    "static/media/ath.jpeg": "/ReliefChain/static/media/ath.f8ef6bbb32501ba20e71.jpeg",
+    "static/media/eq.jpeg": "/ReliefChain/static/media/eq.0342b96fa3d9560ac125.jpeg",
+    "static/media/im1.jpg": "/ReliefChain/static/media/im1.61b5c148e3caa2558fc3.jpg",
+    "static/media/im2.jpg": "/ReliefChain/static/media/im2.7479d121dda17ce234c8.jpg",
+    "static/media/wf.jpg": "/ReliefChain/static/media/wf.a5d06ea02b36b035e27e.jpg",
+    "static/media/icon.svg": "/ReliefChain/static/media/icon.5e4a55d6e311e4c092f3c8a8b33f4196.svg",
+    "index.html": "/ReliefChain/index.html",
+    "main.9a8696c9.css.map": "/ReliefChain/static/css/main.9a8696c9.css.map",
+    "main.f3549a8c.js.map": "/ReliefChain/static/js/main.f3549a8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8696c9.css",
+    "static/js/main.f3549a8c.js"
+  ]
+}
