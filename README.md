@@ -56,4 +56,4 @@ ReliefChain is built using the following technologies:
 
 ## Contact
 
-For inquiries or support, please contact us at gshobhit6151@gmail.com.
+For inquiries or support, please contact us at sglegend48@gmail.com.
